@@ -1,7 +1,7 @@
 # ML/AIDL
-
-##ML
+<h3 align="center">ML</h3>
 <a href="https://github.com/richiebthomas/ML/tree/main/Linear%20Regression">01 Linear Regression</a>
 <a href="https://github.com/richiebthomas/ML/tree/main/Classification">02 Classification</a>
 <hr>
-##DL
+<h3 align="center">DL-paster</h3>
+<a href="https://github.com/richiebthomas/ML/tree/main/DL">01 Neural Networks</a>
